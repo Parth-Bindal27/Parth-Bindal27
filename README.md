@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Parth Bindal</h1>
-<h3 align="center">Software Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Data Science Enthusiast | AI/ML Explorer | Computer Vision | Problem Solver</h3>
 
 <p align="center">
-🏆 1st Place - Byte Runner Hackathon (TRYST'26, IIT Delhi) <br>
-🎓 B.Tech Information Technology Student @ KIET Group of Institutions (Expected 2029) <br>
-💻 Passionate about Software Development, AI, Computer Vision & Web Development
+🏆 <b>1st Place - Byte Runner Hackathon (TRYST'26, IIT Delhi)</b><br>
+🎓 B.Tech Information Technology Student @ KIET Group of Institutions (Expected 2029)<br>
+📊 Passionate about Data Science, Artificial Intelligence, Machine Learning, and building impactful real-world solutions.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🌱 Currently learning **C++, DSA, Python, React and Flask**
-- 🤖 Interested in **Artificial Intelligence, Computer Vision and Software Development**
-- 🏆 Winner of **Byte Runner Hackathon (TRYST'26), IIT Delhi**
-- 💡 Love building real-world projects and continuously improving my problem-solving skills
+- 🎓 Currently pursuing **B.Tech in Information Technology** at KIET Group of Institutions.
+- 🌱 Currently learning **Data Structures & Algorithms, Python, Machine Learning, React, and Flask**.
+- 🤖 Interested in **Data Science, Artificial Intelligence, Machine Learning, and Computer Vision**.
+- 🏆 Winner of **Byte Runner Hackathon (TRYST'26), IIT Delhi**.
+- 💡 I enjoy solving real-world problems through technology and continuously improving my analytical and programming skills.
 - 📫 Reach me at **parthbindal07@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -27,7 +28,13 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / Data Science
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Web Development
 
@@ -40,38 +47,55 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- 🥇 1st Place – Byte Runner Hackathon (TRYST'26), IIT Delhi
+- 🥇 **1st Place** – Byte Runner Hackathon (TRYST'26), IIT Delhi
 - 🛡️ CyberGeek CTF 2026 Participant – IIIT Allahabad
 - 🔐 MythX Nation-Level Cybersecurity CTF Participant
-- 💻 Solved **50+** LeetCode problems
+- 💻 Solved **50+** Data Structures & Algorithms problems on LeetCode
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛰️ Road Extraction & Shortest Path
-Developed a Computer Vision pipeline using OpenCV and NumPy to extract road networks from satellite imagery and compute shortest paths using the A* algorithm.
+## 🛰️ Road Extraction & Shortest Path
 
-### 💰 RUPIQ AI
-An AI-powered expense management application built with Python, Streamlit, Groq API and MySQL.
-
-### 🚌 TransitSense
-Responsive public transport web application built using HTML, CSS, JavaScript and Tailwind CSS.
-
-### 🏠 Aura
-Modern Interior Design website built using HTML, CSS and JavaScript.
+Developed a Computer Vision pipeline using **OpenCV** and **NumPy** to extract road networks from satellite imagery and compute optimal routes using the **A*** algorithm.
 
 ---
 
-## 📈 GitHub Stats
+## 💰 RUPIQ AI
+
+Built an AI-powered expense management application using **Python**, **Streamlit**, **Groq API**, and **MySQL** to generate personalized financial insights.
+
+---
+
+## 🚌 TransitSense
+
+Designed and developed a responsive public transport platform using **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**.
+
+---
+
+## 🏠 Aura
+
+Created a modern interior design website with a responsive and interactive user interface using **HTML**, **CSS**, and **JavaScript**.
+
+---
+
+# 📚 Currently Learning
+
+- 📊 Data Science
+- 🤖 Machine Learning
+- ⚛️ React
+- 🌐 Flask
+- 💻 Advanced Data Structures & Algorithms
+
+---
+
+# 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Parth-Bindal27&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -81,7 +105,7 @@ Modern Interior Design website built using HTML, CSS and JavaScript.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Bindal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parth-bindal-2018b4381)
 
@@ -91,4 +115,4 @@ Modern Interior Design website built using HTML, CSS and JavaScript.
 
 ---
 
-⭐ *"Always learning, always building."*
+<h3 align="center">⭐ Always Learning • Always Building • Always Improving ⭐</h3>
