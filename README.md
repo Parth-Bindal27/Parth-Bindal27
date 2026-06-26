@@ -16,7 +16,6 @@
 - 🤖 Interested in **Data Science, Artificial Intelligence, Machine Learning, and Computer Vision**.
 - 🏆 Winner of **Byte Runner Hackathon (TRYST'26), IIT Delhi**.
 - 💡 I enjoy solving real-world problems through technology and continuously improving my analytical and programming skills.
-- 📫 Reach me at **parthbindal07@gmail.com**
 
 ---
 
